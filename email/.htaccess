@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^email.prestyrio.com.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www.email.prestyrio.com.br$
+RewriteRule ^/?$ "http\:\/\/mail\.google\.com\/a\/prestyrio\.com\.br" [R=301,L]
+

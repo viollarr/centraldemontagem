@@ -1,0 +1,27 @@
+
+*** These modified files were found in JOE when it aborted on Sat Jul 10 16:07:34 2010
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/usr/bin/rpl
+
+*** File '(Unnamed)'
+dev
+dev
+gett
+kernel
+dev
+rpl
+softw
+
+*** File '(Unnamed)'
+brcpostinstup.sh~
+brcpostinstup.sh
+brcpostinstup.sh
+brcpostinstupcp.sh
+brcpostinstup.sh
+brcpostinstup.sh
+brcpostinstupcp.sh
+/brcpostinstup.sh
+/var/log/exim_mainlog
+/etc/httpd/conf/httpd.conf

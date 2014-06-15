@@ -1,0 +1,50 @@
+ 
+CADASTRO DE CLIENTE
+POST => "Laisa" Data => "2013-05-02 12:45:18", Cadastrou o Cliente de vale 718099 => "INFORMAÇÕES CADASTRADAS => "12 => 2 => 4 => 0 => 02/05/2013 => 718099 => 179 => 118107 => 30/04/2013 => JOELSON =>  => CINTIA DA PENHA P DE SOUZA => 25243-150 => ESTRADA  SAO LOURENÇO => 3333 =>  => XEREM - DUQUE DE CAXIAS =>  => 19 => (21)3658-8758 => (21)8474-6163 =>  =>  => 1 => 156334 =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => 23 => 15 => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "Laisa" Data => "2013-05-02 12:46:46", Alterou o Cliente de vale 718099 => "INFORMAÇÕES ALTERADAS => "1 =>  => 12 => 2 => 0 => 0 =>  => 718099 =>  => 118107 => 02/05/2013 =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => 21 => 17 => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "Laisa" Data => "2013-05-02 12:47:15", Alterou o Cliente de vale  => "INFORMAÇÕES ALTERADAS => "1 =>  => 12 => 2 => 0 => 0 =>  =>  =>  =>  => 02/05/2013 =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => 24 => 25 => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "Laisa" Data => "2013-05-02 12:48:09", Alterou o Cliente de vale 718099 => "INFORMAÇÕES ALTERADAS => "1 =>  => 12 => 2 => 4 => 0 =>  => 718099 => 17 => 118107 => 02/05/2013 =>  =>  => CINTIA DA PENHA P DE SOUZA => 25243150 => Estrada: São Lourenço =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => 22 => 30 => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "Laisa" Data => "2013-05-02 12:54:27", Alterou o Cliente de vale  => "INFORMAÇÕES ALTERADAS => "1 =>  => 12 => 2 => 0 => 0 =>  =>  =>  =>  => 02/05/2013 =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => 33 => 18 => "
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "Laisa" Data => "2013-05-02 12:58:36", Alterou o Cliente de vale 718099 => "INFORMAÇÕES ALTERADAS => "1 =>  => 12 => 0 => 0 => 2 => 4 => 0 =>  => 718099 => 17 => 118107 => 02/05/2013 =>  =>  => CINTIA DA PENHA P DE SOUZA => 25243150 =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => "
+
+-------------------------------
+ 
+Exclusão Produto
+POST => "izabela" Data => "2013-05-02 15:14:13", Deletou o produto => "156334" - ", Id => 1"
+
+-------------------------------
+ 
+ALTERAÇÃO DE CLIENTE
+POST => "Laisa" Data => "2013-05-02 15:21:33", Alterou o Cliente de vale  => "INFORMAÇÕES ALTERADAS => "1 =>  => 12 => 2 => 0 => 0 =>  =>  =>  =>  => 02/05/2013 =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => 10 => 17 => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "ssantana" Data => "2013-05-02 15:54:00", Cadastrou o Cliente de vale 718996 => "INFORMAÇÕES CADASTRADAS => "3 => 2 => 0 => 0 => 02/05/2013 => 718996 => 215 => 60503 => 02/05/2013 =>  => 361134 => RENATA CRUZ DE LIMA => 24451-120 => RUA ADRIANO PINTO => 8 => FUNDOS => COLUBANDE => São Gonçalo => 19 => (21)8529-2218 =>  =>  => RUA EM FRENTE AO POSTO HALLEY AO LADO DA IGREJA UNIVERSAL 2º RUA ESQUERDA PROC RENATA => 1 => 182294 => COZ INDEKES BIA  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => 34 => 8 => "
+
+-------------------------------
+ 
+CADASTRO DE CLIENTE
+POST => "ssantana" Data => "2013-05-02 16:18:00", Cadastrou o Cliente de vale 716780 => "INFORMAÇÕES CADASTRADAS => "3 => 1 => 0 => 0 => 02/05/2013 => 716780 => 198 => 24173 => 27/04/2013 =>  => 359179 => JOSELI FERREIRA DE OLIVEIRA => 25530-530 => RUA PAULINO BARBOSARUA PAULINO BARBOSA => 181 => LT: 09 => EDEN => São João de Meriti => 19 => (21)9203-6399 =>  =>  => PERTO DA BARRACA DO NETINHO PROC GILVAN => 1 => 154396 => COMODA SAP RV GRECIA =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  =>  => 28 => 20 => "
+
+-------------------------------

@@ -1,0 +1,46 @@
+<html>
+	<head>
+		<title>Pegar valor Radion Button com Jquery</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+        
+		<script type="text/javascript">
+			
+			$(document).ready(function() {
+				$('#pegar_valor').click(function() {
+					var valor = "";
+					//Executa Loop entre todas as Radio buttons com o name de valor
+					$('input:radio[name=valor]').each(function() {
+						//Verifica qual está selecionado
+						if ($(this).is(':checked'))
+							valor = parseInt($(this).val());
+					})
+					alert(valor);
+				})
+			})
+			
+		</script>
+        
+	</head>
+	
+    <body>
+		
+        <input name="valor" type="radio" value="1" />Valor 1
+        <br />
+        
+        <input name="valor" type="radio" value="2" />Valor 2
+        <br />
+        
+        <input name="valor" type="radio" value="3" />Valor 3
+        <br />
+        
+        <input name="valor" type="radio" value="4" />Valor 4
+        <br />
+        
+        <input name="valor" type="radio" value="5" />Valor 5
+        <br />
+        
+        <input type="button" name="pegar_valor" id="pegar_valor" value="Mostrar Valor"/>
+
+	</body>
+</html>

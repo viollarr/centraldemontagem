@@ -1,0 +1,268 @@
+/* CSS Document */
+
+@charset "utf-8";
+/*RESET*/
+/*html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, input[type="submit"] {margin: 0;padding: 0;border: 0;font-size: 100%;vertical-align: baseline; }*/
+/* HTML5 display-role reset for older browsers */
+/*article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block; margin:0 auto;}*/
+/*RESET*/
+
+/* ERRO DE FORMULARIO */
+
+
+
+#div_erro {
+
+	text-align:center;
+
+	color:#FF0000;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+}
+
+
+
+/* FIM DO ERRO */
+
+/* LOGIN */
+
+.titulo_login {
+	color:#FFFFFF;
+	background-color:#00552B;
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	height:20px;
+	padding-left:30px;
+}
+
+
+/* TITULO */
+
+.titulo {
+
+	color:#FFFFFF;
+
+	width:778px;
+
+	background-color:#00552B;
+
+	text-align:center;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+	font-weight:bold;
+
+	height:20px;
+
+	padding-left:30px;
+
+}
+
+/* FIM DO TITULO */
+
+
+
+/* TEXTO */
+
+.texto {
+
+	text-align:left;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+}
+
+.texto2 {
+
+	text-align:center;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+}
+
+
+
+/* FIM DO TEXTO */
+
+/* LOGIN  */
+
+.box_login{
+	width: 370px;
+	height: 368px;
+	margin: 0 auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -184px;
+	margin-left: -185px;	
+}
+
+.box_conteudo{
+	width: 778px;
+	height: auto;
+	margin: 0 auto;
+	top: 0%;
+	left: 29%;
+}
+.footer{
+	width:778px !important; /*LARGURA*/
+	height:24 !important; /*ALTURA*/
+	background:#00552B !important;
+	margin:0 auto !important;
+	text-align:center !important; /*ALINHADO AO CENTRO*/
+	color: #FFFFFF !important; /*COR DA FONTE*/
+	font-weight:bold !important; /*FONTE EM NEGRITO*/
+	
+}
+
+/* FIM LOGIN */
+
+/* FORMULÁRIO */
+
+input, select, textarea {
+
+	border:1px solid #CCCCCC;
+
+	background-color:#FFFFFF;
+
+}
+
+.cor_tr tr {
+
+	background-color:#F2F2F2;
+
+} 
+
+/* FIM DO FORMULÁRIO */
+
+
+
+/* TABELA COM O FUNDO BRANCO */
+
+.tbl_fundo_branco {
+
+	background-color:#FFFFFF;
+
+}
+
+/* FIM DA TABELA COM O FUNDO BRANCO */
+
+
+
+/* TOPO */
+
+
+
+.topo {
+
+	background-image:url(../images/topo.jpg);
+
+	width:778px;
+
+	height:103px;
+
+}
+
+/* FIM DO TOPO */
+
+
+
+/* MENU */
+
+
+
+.menu {
+
+	background-color:#00552B;
+
+}
+
+/* FIM DO MENU */
+
+
+
+
+
+a:link {
+
+	color:#006666;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+	text-decoration:none;
+
+	text-align:left;
+
+}
+
+a:visited {
+
+	color:#006666;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+	text-decoration:none;
+
+	text-align:left;
+
+}
+
+a:hover {
+
+	color:#006666;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+	text-decoration:none;
+
+	text-align:left;
+
+}
+
+/* RODAPE */
+
+.rodape {
+
+	background-image:url(../images/rodape.jpg);
+
+	background-position:right;
+
+	background-repeat:no-repeat;
+
+	background-color:#F2F2F2;
+
+	height:93px;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+	font-size:11px;
+
+}
+
+/* FIM DO RODAPE */
+
+/* TEXTO COM PRIMEIRA LETRA EM MAIÚSCULA */
+
+.upper {
+
+	text-transform:uppercase;
+
+}
+
